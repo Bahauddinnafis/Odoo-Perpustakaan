@@ -6,7 +6,7 @@
 
 Project latihan membuat module odoo 17 dengan studi kasus perpustakaan
 
-## Contributor
+## Contributors
 - A
 - B
 - C
